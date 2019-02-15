@@ -5,3 +5,4 @@
 #Полезные ссылки:
 
 Шаблон первой лабораторной работы: [https://github.com/LebedevIlyaG/mp2-lab1-set]
+Gitter-чат: [https://gitter.im/381706/community#]
