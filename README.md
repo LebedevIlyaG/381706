@@ -15,3 +15,5 @@ Gitter-чат: [https://gitter.im/381706/community#]
 Ссылка на материалы (2 тома): [http://www.itmm.unn.ru/most/obuchenie/uchebnye-materialy/]
 
 Методичка по лабам: [http://www.unn.ru/books/met_files/Pract_ADS.pdf]
+
+Информация о конкурес проектов: [http://www.itmm.unn.ru/novosti/koncurs-prog-pr-2019]
